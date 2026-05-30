@@ -1,4 +1,3 @@
-$(cat /mnt/user-data/outputs/README.md)
 <div align="center">
 
 <img src="./sorabbyngo.jpeg" width="180" alt="Sorabbyngo — Rhythm of Digital Life" />
@@ -24,27 +23,33 @@ We build the operating system, intelligence layer, and infrastructure stack that
 
 Sorabbyngo is a technology company headquartered in **Kisii, Kenya**. We are building a sovereign AI operating system designed for the realities of Africa — intermittent connectivity, low-resource hardware, multilingual users, and the need for data to stay local.
 
-Our work spans the kernel, the network, the intelligence layer, and the applications that run on top of it — an integrated vertical stack, not a collection of disconnected tools.
+Our work spans the kernel, the network, the intelligence layer, and the experience layer — an integrated vertical stack, not a collection of disconnected apps.
 
 ---
 
-## The Stack
+## The Architecture
+
+There are no apps. The OS is the experience.
 ┌─────────────────────────────────────────────────────────┐
-│                    APPLICATIONS                         │
-│              Novela · Byngox · Chameha                  │
+│                   SORABBYNGO OS                         │
+│         One system. Everything built in.                │
 ├─────────────────────────────────────────────────────────┤
-│                 INTELLIGENCE LAYER                      │
-│         CML · ARAM · Sorabbyngo Models · Vector         │
+│                  USER EXPERIENCE                        │
+│        Chameha — voice-first · bilingual · AI UI        │
 ├─────────────────────────────────────────────────────────┤
-│                  NETWORK & IDENTITY                     │
-│         Byngonet · Identity Core · Event Bus            │
+│               INTELLIGENCE LAYER                        │
+│   CML · ARAM · On-device models · GraphRAG · Vector     │
 ├─────────────────────────────────────────────────────────┤
-│                   OS & KERNEL                           │
-│    Sorabbyngo OS (Linux 6.19.10) · NodeID · Sentinel    │
+│               NETWORK & IDENTITY                        │
+│      Byngonet mesh · NodeID · Identity Core             │
 ├─────────────────────────────────────────────────────────┤
-│                SECURITY & COMPLIANCE                    │
-│        Citadel · Cyberwall · 7-Ring Defence             │
+│                 KERNEL (Linux 6.19.10)                  │
+│     NodeID driver · Byngonet driver · Byngo LSM         │
+├─────────────────────────────────────────────────────────┤
+│              SECURITY & COMPLIANCE                      │
+│     Citadel · Cyberwall · Sentinel · 7-Ring Defence     │
 └─────────────────────────────────────────────────────────┘
+
 ---
 
 ## Our Organizations
@@ -54,7 +59,7 @@ We work in focused, domain-specific organizations. Explore each one:
 | Organization | Domain | What Lives Here |
 |---|---|---|
 | [**sorabbyngo-os**](https://github.com/sorabbyngo-os) | Operating System | Custom Linux 6.19.10 kernel, NodeID driver, Byngonet, build toolchain, Chameha, ADRs |
-| [**novela-health**](https://github.com/novela-health) | Healthcare Intelligence | Novela clinical AI platform, CML compliance layer, Kenya DPA 2019 enforcement |
+| [**novela-health**](https://github.com/novela-health) | Healthcare Intelligence | Novela clinical intelligence subsystem, CML compliance layer, Kenya DPA 2019 enforcement |
 | [**soraxis-tech**](https://github.com/soraxis-tech) | Agent Systems | Byngox 8-agent swarm engine — health, drug, context, network, learning, population agents |
 | [**citadel-sec**](https://github.com/citadel-sec) | Security & Defence | 7-ring defence architecture, Cyberwall AI firewall, identity forensics, PKI, cyber lab |
 | [**sorabyte-cloud**](https://github.com/sorabyte-cloud) | Cloud Infrastructure | Sorabbyngo cloud layer, Tier 3 opt-in cloud services, server-os |
@@ -81,16 +86,16 @@ The intelligence layer runs on curated open-source models — DeepSeek-R1, Medit
 
 ---
 
-## Flagship Products
-
-### 🏥 Novela
-AI-powered healthcare intelligence for African clinical environments. Runs offline. Speaks Swahili. Trained on African health datasets. Compliant with Kenya DPA 2019.
+## The Product
 
 ### 🖥️ Sorabbyngo OS
-A custom Linux 6.19.10 operating system with AI runtime baked into the kernel. Features NodeID hardware identity, Byngonet mesh networking, and a tiered inference engine (local → GPU local → cloud opt-in).
+There is one product. The OS.
 
-### 🌐 Byngonet
-An AI-native mesh network protocol with post-quantum security, swarm routing, and NodeID-based packet authentication at the kernel level.
+A custom Linux 6.19.10 operating system with AI intelligence baked into the kernel — not bolted on top. No app store. No separate apps to install. Healthcare intelligence, mesh networking, voice interaction, and data sovereignty are OS-level capabilities, not applications.
+
+Built for Africa. Runs on commodity hardware. Works without internet. Speaks Swahili and English. Your data never leaves your device unless you explicitly choose otherwise.
+
+**Novela** (clinical intelligence) and **Byngox** (agent swarm) are subsystems of the OS — not standalone apps.
 
 ---
 
@@ -142,3 +147,4 @@ If you share that belief, we'd love to connect.
 *© 2025 Sorabbyngo. All rights reserved.*
 
 </div>
+
