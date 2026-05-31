@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./sorabbyngo.jpeg" width="180" alt="Sorabbyngo — Rhythm of Digital Life" />
+<img src="https://raw.githubusercontent.com/sorabbyngo-headquarters/.github/main/assets/sorabbyngo-logo.jpeg" width="180" alt="Sorabbyngo — Rhythm of Digital Life" />
 
 <br/>
 
@@ -60,13 +60,12 @@ We work in focused, domain-specific organizations. Explore each one:
 |---|---|---|
 | [**sorabbyngo-os**](https://github.com/sorabbyngo-os) | Operating System | Custom Linux 6.19.10 kernel, NodeID driver, Byngonet, build toolchain, Chameha, ADRs |
 | [**novela-health**](https://github.com/novela-health) | Healthcare Intelligence | Novela clinical intelligence subsystem, CML compliance layer, Kenya DPA 2019 enforcement |
-| [**soraxis-tech**](https://github.com/soraxis-tech) | Agent Systems | Byngox 8-agent swarm engine — health, drug, context, network, learning, population agents |
+| [**soraxis-tech**](https://github.com/soraxis-tech) | IoT · Robotics · Space | Byngox 8-agent swarm engine — health, drug, context, network, learning, population agents |
 | [**citadel-sec**](https://github.com/citadel-sec) | Security & Defence | 7-ring defence architecture, Cyberwall AI firewall, identity forensics, PKI, cyber lab |
-| [**sorabyte-cloud**](https://github.com/sorabyte-cloud) | Cloud Infrastructure | Sorabbyngo cloud layer, Tier 3 opt-in cloud services, server-os |
-| [**sorabbyngo-vector**](https://github.com/sorabbyngo-vector) | AI & Data | Model registry, vector database, GraphRAG, Data Factory, ARAM intelligence platform |
+| [**sorabyte-cloud**](https://github.com/sorabyte-cloud) | AI · Compute · Cloud · Data | Sorabbyngo cloud layer, Tier 3 opt-in cloud services, server-os |
+| [**sorabbyngo-vector**](https://github.com/sorabbyngo-vector) | Logistics · Fleet · Transit | Model registry, vector database, GraphRAG, Data Factory, ARAM intelligence platform |
 | [**sorabbyngo-headquarters**](https://github.com/sorabbyngo-headquarters) | Company Operations | Strategy, governance, company-wide documentation |
 | [**sorabbyngo-people**](https://github.com/sorabbyngo-people) | People & Culture | Hiring, team handbook, onboarding |
-| [**sorabbyngo-Labs**](https://github.com/sorabbyngo-Labs) | R&D | Experimental projects, research, prototypes |
 
 ---
 
@@ -127,7 +126,7 @@ Builder of systems. Based in Kisii, Kenya. Obsessed with making sovereign, offli
 ## Built in Kenya. Built for the World.
 
 <div align="center">
-<img src="./sorabbyngo-hq.png" width="100%" alt="Sorabbyngo Headquarters" />
+<img src="https://raw.githubusercontent.com/sorabbyngo-headquarters/.github/main/assets/sorabbyngo-logo.jpeg" width="100%" alt="Sorabbyngo Headquarters" />
 </div>
 
 <br/>
@@ -144,7 +143,7 @@ If you share that belief, we'd love to connect.
 
 <div align="center">
 
-*© 2025 Sorabbyngo. All rights reserved.*
+*© 2026 Sorabbyngo. All rights reserved.*
 
 </div>
 
